@@ -10,4 +10,7 @@ Audio - https://openinapp.co/o9vuj
 Hint - Explore Wav2Lip
 
 
+https://github.com/ZakeerS/Lip_Sync_Video/assets/135118498/e82f2ef4-c97b-49ef-825b-11313d025f9f
+
+
 Lip_Sync_Assignment:-https://drive.google.com/file/d/1r3D6pFkT0sqBE3N3eSiiX6KpokUvk8kL/view?usp=sharing
